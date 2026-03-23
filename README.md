@@ -15,7 +15,7 @@ A rule-based semantic column matching tool for Chinese and mixed-language text. 
 
 ```
 semantic-column-matcher/
-  SKILL.md                    # Qoder Skill workflow document
+  SKILL.md                    # Skill workflow document
   matching-rules.md           # Detailed matching rules reference
   README.md                   # Chinese readme
   README_EN.md                # This file (English readme)
