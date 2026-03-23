@@ -173,7 +173,7 @@ The script includes two built-in lists that can be edited directly for your use 
 
 ## Online Document Support
 
-When a data source is an online spreadsheet URL (invoked through the Qoder Skill workflow), the following platforms are supported:
+When a data source is an online spreadsheet URL (invoked through the Skill workflow), the following platforms are supported:
 
 - DingTalk / AliDocs
 - Feishu / Lark
